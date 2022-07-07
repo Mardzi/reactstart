@@ -12,14 +12,17 @@ html {
 body {
   margin: 0;
   display: flex;
-  flex-diraction: column;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   
 }
 .container{
   display: flex;
-  width: 95vw;
+  width: 100vw;
+  border: 1px solid black;
+  flex-wrap: wrap;
+  background-color: #7b1fa2;
   
   
 }

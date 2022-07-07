@@ -1,0 +1,182 @@
+[
+    {
+     "first_name": "Adriano",
+     "last_name": "Alfaro",
+     "profession": "Electrician",
+     "rating": 4.2,
+     "avatar": "Adriano_Alfaro.jpg",
+     "phone": "+49 171 12 34 567",
+     "email_address": "Adriano.Alfaro@gmail.com"
+    },
+    {
+     "first_name": "Amy-Louise",
+     "last_name": "Klein",
+     "profession": "Electrician",
+     "rating": 3.2,
+     "avatar": "Amy-Louise_Klein.jpg",
+     "phone": "+49 171 12 34 568",
+     "email_address": "Amy-Louise.Klein@gmail.com"
+    },
+    {
+     "first_name": "Ashley",
+     "last_name": "White",
+     "profession": "Electrician",
+     "rating": 4.6,
+     "avatar": "Ashley_White.jpg",
+     "phone": "+49 171 12 34 569",
+     "email_address": "Ashley.White@gmail.com"
+    },
+    {
+     "first_name": "Brittany",
+     "last_name": "Walsh",
+     "profession": "Electrician",
+     "rating": 4.5,
+     "avatar": "Brittany_Walsh.jpg",
+     "phone": "+49 171 12 34 570",
+     "email_address": "Brittany.Walsh@gmail.com"
+    },
+    {
+     "first_name": "Brittney",
+     "last_name": "Allen",
+     "profession": "Electrician",
+     "rating": 4,
+     "avatar": "Brittney_Allen.jpg",
+     "phone": "+49 171 12 34 571",
+     "email_address": "Brittney.Allen@gmail.com"
+    },
+    {
+     "first_name": "Duncan",
+     "last_name": "Bentley",
+     "profession": "Mechanic",
+     "rating": 4,
+     "avatar": "Duncan_Bentley.jpg",
+     "phone": "+49 171 12 34 572",
+     "email_address": "Duncan.Bentley@gmail.com"
+    },
+    {
+     "first_name": "Eric",
+     "last_name": "Sherman",
+     "profession": "Mechanic",
+     "rating": 4.1,
+     "avatar": "Eric_Sherman.jpg",
+     "phone": "+49 171 12 34 573",
+     "email_address": "Eric.Sherman@gmail.com"
+    },
+    {
+     "first_name": "Holly",
+     "last_name": "Maldano",
+     "profession": "Mechanic",
+     "rating": 4.8,
+     "avatar": "Holly_Maldano.jpg",
+     "phone": "+49 171 12 34 574",
+     "email_address": "Holly.Maldano@gmail.com"
+    },
+    {
+     "first_name": "Jermaine",
+     "last_name": "Hall",
+     "profession": "Mechanic",
+     "rating": 4.9,
+     "avatar": "Jermaine_Hall.jpg",
+     "phone": "+49 171 12 34 575",
+     "email_address": "Jermaine.Hall@gmail.com"
+    },
+    {
+     "first_name": "Kevin",
+     "last_name": "Aldano",
+     "profession": "Mechanic",
+     "rating": 2.5,
+     "avatar": "Kevin_Aldano.jpg",
+     "phone": "+49 171 12 34 576",
+     "email_address": "Kevin.Aldano@gmail.com"
+    },
+    {
+     "first_name": "Luc",
+     "last_name": "Bernier",
+     "profession": "Plumber",
+     "rating": 4,
+     "avatar": "Luc_Bernier.jpg",
+     "phone": "+49 171 12 34 577",
+     "email_address": "Luc.Bernier@gmail.com"
+    },
+    {
+     "first_name": "Luca",
+     "last_name": "Dimitrov",
+     "profession": "Plumber",
+     "rating": 4.5,
+     "avatar": "Luca_Dimitrov.jpg",
+     "phone": "+49 171 12 34 578",
+     "email_address": "Luca.Dimitrov@gmail.com"
+    },
+    {
+     "first_name": "Maddox",
+     "last_name": "Blake",
+     "profession": "Plumber",
+     "rating": 4.3,
+     "avatar": "Maddox_Blake.jpg",
+     "phone": "+49 171 12 34 579",
+     "email_address": "Maddox.Blake@gmail.com"
+    },
+    {
+     "first_name": "Magrit",
+     "last_name": "Stiffel",
+     "profession": "Plumber",
+     "rating": 4,
+     "avatar": "Magrit_Stiffel.jpg",
+     "phone": "+49 171 12 34 580",
+     "email_address": "Magrit.Stiffel@gmail.com"
+    },
+    {
+     "first_name": "Molly",
+     "last_name": "Vinson",
+     "profession": "Plumber",
+     "rating": 4.8,
+     "avatar": "Molly_Vinson.jpg",
+     "phone": "+49 171 12 34 581",
+     "email_address": "Molly.Vinson@gmail.com"
+    },
+    {
+     "first_name": "Nathan",
+     "last_name": "Azevedo",
+     "profession": "Electrician",
+     "rating": 4,
+     "avatar": "Nathan_Azevedo.jpg",
+     "phone": "+49 171 12 34 582",
+     "email_address": "Nathan.Azevedo@gmail.com"
+    },
+    {
+     "first_name": "Nino",
+     "last_name": "Endrizzi",
+     "profession": "Electrician",
+     "rating": 3.9,
+     "avatar": "Nino_Endrizzi.jpg",
+     "phone": "+49 171 12 34 583",
+     "email_address": "Nino.Endrizzi@gmail.com"
+    },
+    {
+     "first_name": "Nojus",
+     "last_name": "Hutton",
+     "profession": "Mechanic",
+     "rating": 4.2,
+     "avatar": "Nojus_Hutton.jpg",
+     "phone": "+49 171 12 34 584",
+     "email_address": "Nojus.Hutton@gmail.com"
+    },
+    {
+     "first_name": "Shannon",
+     "last_name": "Adams",
+     "profession": "Plumber",
+     "rating": 1.3,
+     "avatar": "Shannon_Adams.jpg",
+     "phone": "+49 171 12 34 585",
+     "email_address": "Shannon.Adams@gmail.com"
+    },
+    {
+     "first_name": "Stephanie",
+     "last_name": "Harris",
+     "profession": "Electrician",
+     "rating": 2.2,
+     "avatar": "Stephanie_Harris.jpg",
+     "phone": "+49 171 12 34 586",
+     "email_address": "Stephanie.Harris@gmail.com"
+    }
+   ]
