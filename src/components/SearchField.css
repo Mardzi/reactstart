@@ -1,0 +1,11 @@
+.searchfield{
+    width: 50vw;
+    font-size: 16px;
+    height: 50px;
+    line-height: 50px;
+    background: #7b1fa2;
+    color: #fff;
+}
+.searchfieldinput{
+   size: 300;
+}
