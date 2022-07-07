@@ -1,3 +1,4 @@
+import ContactCard from './components/ContactCard';
 import Logo from './components/Logo';
 import MenuButton from './components/MenuButton';
 import SearchField from './components/SearchField';
@@ -8,14 +9,18 @@ function App() {
     {   title: 'Sign in',menuitemone:'Username',  menuitemtwo:'Password', menuitemthree:'three'  }
 ];
   return (
-    <div className='container'>
+    <div className='container2'>
       
-       <Logo></Logo>
-        <MenuButton title={buttonname[0].title} menuitemone={buttonname[0].menuitemone } menuitemtwo={buttonname[0].menuitemtwo} menuitemthree={buttonname[0].menuitemthree}></MenuButton>
-        <MenuButton title={buttonname[1].title} menuitemone={buttonname[1].menuitemone } menuitemtwo={buttonname[1].menuitemtwo} menuitemthree={buttonname[1].menuitemthree}></MenuButton>
-        <SearchField></SearchField>
-        <MenuButton title={buttonname[2].title} menuitemone={buttonname[2].menuitemone } menuitemtwo={buttonname[2].menuitemtwo} menuitemthree={buttonname[2].menuitemthree}></MenuButton>
-       
+        <div className='container'>
+          <Logo></Logo>
+          <MenuButton title={buttonname[0].title} menuitemone={buttonname[0].menuitemone } menuitemtwo={buttonname[0].menuitemtwo} menuitemthree={buttonname[0].menuitemthree}></MenuButton>
+          <MenuButton title={buttonname[1].title} menuitemone={buttonname[1].menuitemone } menuitemtwo={buttonname[1].menuitemtwo} menuitemthree={buttonname[1].menuitemthree}></MenuButton>
+          <SearchField></SearchField>
+          <MenuButton title={buttonname[2].title} menuitemone={buttonname[2].menuitemone } menuitemtwo={buttonname[2].menuitemtwo} menuitemthree={buttonname[2].menuitemthree}></MenuButton>
+        </div>
+        <div className='container2'>
+          <ContactCard />
+        </div>
     </div>
   );
 }
