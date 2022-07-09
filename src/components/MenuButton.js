@@ -1,13 +1,12 @@
-import App from '../App';
 import './MenuButton.css';
 function MenuButton(props){
     
     return (
             <div className="dropdown">{props.title}
                 <ul className="dropdown-menu">
-                    <li><a href="#">{props.menuitemone}</a></li>
-                    <li><a href="#">{props.menuitemtwo}</a></li>
-                    <li><a href="#">{props.menuitemthree}</a></li>
+                    <li>{props.menuitemone}</li>
+                    <li>{props.menuitemtwo}</li>
+                    <li>{props.menuitemthree}</li>
                 </ul>
             </div>
 
