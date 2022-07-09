@@ -77,3 +77,4 @@ sketch
 *.3dmc
 # Folders
 public/img/
+build

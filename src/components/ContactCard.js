@@ -1,18 +1,14 @@
 import './ContactCard.css'
 import MockData from '../MockData.json'
-
 function ContactCard() {
     return(
         <div>
             {
                 MockData.map( record =>{
-                    const divManager = () => {
-                        console.log("Herro")
-                    }
                     return(
                         
                         <div>
-                            <div className='container4' onClick={divManager}>
+                            <div className='container4' >
                                 <div  >
                                     <div>{ record.first_name} {record.last_name}</div>
                                 </div>
