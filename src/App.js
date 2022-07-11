@@ -1,4 +1,3 @@
-import ContactCard from './components/ContactCard';
 import Logo from './components/Logo';
 import MenuButton from './components/MenuButton';
 import SearchField from './components/SearchField';
@@ -17,6 +16,7 @@ function App() {
           <MenuButton title={buttonname[1].title} menuitemone={buttonname[1].menuitemone } menuitemtwo={buttonname[1].menuitemtwo} menuitemthree={buttonname[1].menuitemthree}></MenuButton>
           <SearchField />
           <MenuButton title={buttonname[2].title} menuitemone={buttonname[2].menuitemone } menuitemtwo={buttonname[2].menuitemtwo} menuitemthree={buttonname[2].menuitemthree}></MenuButton>
+          
         </div>
         
     </div>
